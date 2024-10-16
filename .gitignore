@@ -29,15 +29,13 @@ gunicorn-access.log
 *.pyc
 *.pyo
 *.pyd
-db.sqlite3
-*.sqlite3
 
 # Django migrations
 */migrations/*
 !*/migrations/__init__.py
 
 # Media files
-media/
+
 
 # Static files
 staticfiles/
