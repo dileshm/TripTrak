@@ -1,2 +1,2 @@
 # TripTrak
-Travel App
+Check out the website at https://triptrak-prmd.onrender.com
